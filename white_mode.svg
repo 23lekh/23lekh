@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="600px" height="340px" font-size="16px">
+<rect width="600px" height="320px" fill="#f6f8fa" rx="15"/>
+<text fill="#24292f" class="ascii" x="38.5">
+<tspan x="30" y="50" style="font-size: 20px; fill:#000000">Lekh Ranka</tspan>
+<tspan x="30" y="90">Lines of Code:</tspan>
+<tspan x="80" y="110" style="fill:#0a30a9">Just Started</tspan> (<tspan style="fill: #3fb950">000++</tspan>, <tspan style="fill: #f85149">000--</tspan>)
+<tspan x="30" y="140">Languages:</tspan>
+<tspan x="80" y="160" style="fill:#0a30a9">Java, Python, C/C++, JavaScript, HTML/CSS</tspan>
+<tspan x="30" y="190">Education:</tspan>
+<tspan x="80" y="210" style="fill:#0a30a9">JAIN University</tspan>
+<tspan x="30" y="240">Contact:</tspan>
+<tspan x="80" y="260" style="fill:#0a30a9">General: rankalekh23@gmail.com</tspan>
+</text>
+</svg>
